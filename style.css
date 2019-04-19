@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+header {
+  text-align: center;
+}
+
+img {
+  
+}
+
+nav {
+  padding: 0 10px;
+  background-color: blue;
+  
+}
+
+figcaption {
+  font-size: 
+}
+
+div {
+  text-align: center;
+  background-color: blue;
+  width: 25%;
+  
+}
